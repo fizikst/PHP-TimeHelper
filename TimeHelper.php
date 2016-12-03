@@ -1,6 +1,6 @@
 <?php
 
-namespace korytoff;
+namespace fizikst\timehelperf;
 
 /**
  * Class TimeHelper
