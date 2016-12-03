@@ -1,6 +1,6 @@
 <?php
 
-namespace korytoff\helpers;
+namespace korytoff;
 
 /**
  * Class TimeHelper

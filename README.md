@@ -24,7 +24,7 @@ Or use composer
     ],
     "require": {
     	...
-        "korytoff/helpers/timehelper": "*"
+        "korytoff/timehelperf": "*"
     },
 }
 ```
